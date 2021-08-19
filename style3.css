@@ -1,0 +1,95 @@
+body{
+    background-color: #77DD77;
+}
+
+
+#Title {
+    text-align: center;
+    border: solid black;
+}
+
+#AllInfoFood {
+    display: block;
+    justify-content: start;
+}
+
+.Container1{
+    background-color: #FDFD96;
+}
+
+.TitleCont1 {
+    font-size: 38px;
+    text-decoration: underline black;
+}
+#NutrinDesc {
+    display: flex;
+}
+
+#NutritionalFacts{
+    border: solid black;
+    padding-right: 100px;
+    margin-right: 1px;
+    font-size: 18px;
+}
+
+#FruitDescription {
+    border: solid black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.Container2{
+    background-color: #779ECB;
+}
+
+.TitleCont2{
+    font-size: 38px;
+    text-decoration: underline;
+}
+
+#NutrinDesc2 {
+    display: flex;
+}
+
+#NutritionalFacts2{
+    border: solid black;
+    padding-right: 100px;
+    margin-right: 1px;
+    font-size: 18px;
+}
+
+#FruitDescription2 {
+    border: solid black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.TitleCont2{
+    font-size: 38px;
+    text-decoration: underline;
+}
+
+#Container3 {
+    background-color: #FF6961;
+}
+
+.TitleCont3 {
+    font-size: 38px;
+    text-decoration: underline black;
+}
+#NutrinDesc3 {
+    display: flex;
+}
+
+#NutritionalFacts3{
+    border: solid black;
+    padding-right: 100px;
+    margin-right: 1px;
+    font-size: 18px;
+}
+
+#FruitDescription3 {
+    border: solid black;
+    font-size: 20px;
+    padding: 10px;
+}
